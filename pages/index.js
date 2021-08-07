@@ -5,6 +5,7 @@ const Index = () => {
     <MainContainer pageTitle="Home Page" keywords="Main">
       <div>
         <h1>Main page</h1>
+        <div className="container">Some text add here...</div>
       </div>
     </MainContainer>
   );
