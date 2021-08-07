@@ -6,6 +6,7 @@ const Index = () => {
       <div>
         <h1>Main page</h1>
         <div className="container">Some text add here...</div>
+        <p>This is super amazing!</p>
       </div>
     </MainContainer>
   );
